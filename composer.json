@@ -1,0 +1,12 @@
+{
+    "name": "gena6/beget-php-yand-backet",
+    "authors": [
+        {
+            "name": "Ulibka68",
+            "email": "gena68@inbox.ru"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.173"
+    }
+}
